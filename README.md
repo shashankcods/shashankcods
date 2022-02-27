@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shashankcods
-- 👀 I’m a beginner in coding and wish to make this a full time profession
 - 🌱 I’m currently learning Python
-- 📫 You can contact me on my email: shashankl10256@gmail.com
+- 📫 You can contact me by asking about me to your mom
 
 <!---
 shashankcods/shashankcods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
